@@ -1,0 +1,5 @@
+.clone
+.build
+.image
+output/
+third_party/
